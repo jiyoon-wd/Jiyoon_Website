@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jiyoon-wd/Jiyoon_Website/issues"
   },
-  "homepage": "https://github.com/jiyoon-wd/Jiyoon_Website#readme"
+  "homepage": "https://github.com/jiyoon-wd/Jiyoon_Website#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
