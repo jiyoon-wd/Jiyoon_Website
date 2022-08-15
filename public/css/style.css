@@ -233,7 +233,7 @@
     background-color:#16213E;
 }
 .ExpContainer {
-    padding: 50px 50px;
+    padding: 50px 100px;
 }
 .ExpContainer h1 {
     font-size: 3rem;
@@ -433,6 +433,7 @@
         display:grid;
         grid-template-columns: 1fr;
     }
+    
 }
 
 
