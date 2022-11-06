@@ -250,6 +250,12 @@
     color: #fff;
     margin-top: 30px;
 }
+.ExpContainer li a {
+    display: flex;
+    color: #E94560;
+    display: inline-block;
+    font-size: 20px;
+}
 .ExpHeading {
     color: #E94560;
     font-size: 1.5rem;
